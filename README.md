@@ -46,7 +46,7 @@ Wonmoo Lee, Sangho Lee, Astera S. Tang, Chansol Kim, Runze Liu, **Kiseop Im**, H
   - 부전공: 전산학부
   - GPA: 4.08/4.30
 
-화학공학 전공을 통해 organic chemistry, supramolecular chemistry, physical chemistry, statistics, analytical/numerical mathematics, chemoinformatics 등 Protein Engineering 관련 지식을 습득해왔습니다.
+화학공학 전공을 통해 organic chemistry, supramolecular chemistry, physical chemistry, statistics, analytical/numerical mathematics, chemoinformatics 등 protein engineering에 필요한 지식을 가지고 있습니다.
 <br/><br/>
 ## Research Projects
 
