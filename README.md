@@ -59,7 +59,7 @@ Wonmoo Lee, Sangho Lee, Astera S. Tang, Chansol Kim, Runze Liu, **Kiseop Im**, H
 - 기간: 2024.02 - 2025.05
 - 주제: 펩타이드 서열로부터 콜라겐 삼중 나선의 녹는점 측정을 위한 인공신경망 모델 개발
 - [관련 학술 포스터](./FM24_KiseopIm.pdf)
-- 현재 관련 연구를 학술지에 게재하기 위해 manuscript 작업 중에 있습니다. 
+- 현재 관련 연구를 Nature Chemistry에 제출하기 위해 manuscript 작업 중에 있습니다. 
 - 첫 번째 콜라겐 관련 프로젝트를 진행하면서 제가 본 주제를 직접 제안했습니다. TensorFlow를 이용하여 아래와 같은 특징을 가진 딥러닝 모델을 구축했습니다.
   - Model architecture를 통해 예측치가 empirical하게 발견된 trend를 따르도록 설계했습니다.
   - 기존에 알려진 이론을 이용해 artificial dataset을 생성했습니다. training set에 포함한 결과 regularization 효과가 있었습니다.
